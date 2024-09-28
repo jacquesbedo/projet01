@@ -628,18 +628,6 @@ video {
   --tw-bg-opacity: 0.75;
 }
 
-.bg-back1 {
-  background-image: url('/img/fond1.jpg');
-}
-
-.bg-cover {
-  background-size: cover;
-}
-
-.bg-center {
-  background-position: center;
-}
-
 .p-0 {
   padding: 0px;
 }
@@ -666,10 +654,6 @@ video {
 
 .pt-16 {
   padding-top: 4rem;
-}
-
-.pt-1 {
-  padding-top: 0.25rem;
 }
 
 .text-sm {
