@@ -629,7 +629,7 @@ video {
 }
 
 .bg-back1 {
-  background-image: url('./img/fond1.jpg');
+  background-image: url('/img/fond1.jpg');
 }
 
 .bg-cover {
