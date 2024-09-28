@@ -668,6 +668,10 @@ video {
   padding-top: 4rem;
 }
 
+.pt-1 {
+  padding-top: 0.25rem;
+}
+
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
